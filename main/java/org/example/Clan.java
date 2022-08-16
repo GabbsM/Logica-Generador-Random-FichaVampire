@@ -13,11 +13,6 @@ public class Clan {
     private String disciplina3;
 
 
-    public void generarClan(){
-
-
-    }
-
     public void clan() {
 
 

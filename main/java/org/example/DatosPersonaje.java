@@ -63,34 +63,6 @@ public class DatosPersonaje {
         System.out.println("Nombre: " + nombre);
     }
 
-/*    public void clan(){
-
-        ArrayList<String> clanes = new ArrayList<>();
-
-        clanes.add("Brujah");
-        clanes.add("Malkavian");
-        clanes.add("Nosferatu");
-        clanes.add("Toreador");
-        clanes.add("Tremere");
-        clanes.add("Ventrue");
-        clanes.add("Lasombra");
-        clanes.add("Tzimisce");
-        clanes.add("Assamita");
-        clanes.add("Gangrel");
-        clanes.add("Giovanni");
-        clanes.add("Seguidores del Set");
-        clanes.add("Ravnos");
-
-        for (int i = 0; i < clanes.size() ; i++) {
-            int index = (int)(Math.random() * clanes.size());
-            clan = clanes.get(index);
-        }
-
-        System.out.println("Clan: " + clan);
-
-
-    }*/
-
     public void naturalezaYConducta(){
 
         ArrayList<String> naturalezasyconductas = new ArrayList<>();
