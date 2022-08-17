@@ -1,4 +1,4 @@
-package org.example;
+package Ventajas;
 
 import lombok.Data;
 

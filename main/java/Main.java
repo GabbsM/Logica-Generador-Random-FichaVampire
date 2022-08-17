@@ -1,6 +1,8 @@
-package org.example;
-
-import java.util.concurrent.atomic.AtomicInteger;
+import Atributos.Atributos;
+import Clan.Clan;
+import DatosPJ.DatosPersonaje;
+import Habilidades.Habilidades;
+import Ventajas.Ventajas;
 
 public class Main {
 

@@ -1,4 +1,4 @@
-package org.example;
+package Clan;
 
 import lombok.Data;
 

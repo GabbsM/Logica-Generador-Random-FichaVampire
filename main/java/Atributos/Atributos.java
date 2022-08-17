@@ -1,4 +1,4 @@
-package org.example;
+package Atributos;
 
 import lombok.Data;
 

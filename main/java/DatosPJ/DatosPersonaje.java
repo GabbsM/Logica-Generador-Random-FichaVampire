@@ -1,4 +1,4 @@
-package org.example;
+package DatosPJ;
 
 import lombok.Data;
 

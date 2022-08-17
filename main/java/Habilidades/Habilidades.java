@@ -1,4 +1,4 @@
-package org.example;
+package Habilidades;
 
 import lombok.Data;
 
